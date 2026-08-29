@@ -1,9 +1,27 @@
+/* this is boiler tag of css*/
 *{
-    margin: 0%;
-    padding: 0%;
-    background-color: red;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 head,body{
     height: 100%;
     width: 100%;
 }
+
+/*so the list items are not touching the left edge of the page and have some padding from the left side of the page*/
+ul {
+    background-color: blue;
+    padding-left: 30px;
+}
+
+ol {
+    padding-left: 30px;
+}
+
+/* px= fixed size,
+    em= relative to font size, if 1em=16px, 2em=32px, 3em=48px
+    %= relative to parent element, if 100%=16px, 200%=32px, 300%=48px
+    rem= relative to root (html), if 1rem=16px, 2rem=32px, 3rem=48px */
+
+   
