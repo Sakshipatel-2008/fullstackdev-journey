@@ -26,7 +26,7 @@
 -padding
 # whole html and css revision done
 - Mini mini project- game of shapes completed
-<!-- - started Java script
+- started Java script
 -setting up
 -list,cons n variable
 -datatypes and ecma standards
@@ -34,7 +34,7 @@
 - string to no. conversion
 -comparison of datatypes
 - datatypes END
--stack and heap memory  -->
+-stack and heap memory 
 
 ## 30 august
 ### learned
